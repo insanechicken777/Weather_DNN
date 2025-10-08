@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files
+*.keras
+*.h5
+
+# Data files
+*.csv
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+env/
+venv/
+ENV/
