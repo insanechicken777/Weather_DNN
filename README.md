@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predictive Deep Learning Model for Weather-Related Railway Incidents
 
 This project implements a Deep Neural Network (DNN) to explore the potential of forecasting railway casualty risk based on historical meteorological data. The model is built using TensorFlow and Keras, and the entire data processing pipeline is handled with Pandas and Scikit-learn.
@@ -49,3 +50,7 @@ The project demonstrates a complete end-to-end machine learning workflow, from a
 ## Project Status
 
 **Proof of Concept:** The current implementation uses **placeholder (randomly generated) casualty data** for demonstration purposes. This allows the full pipeline to be tested and validated. To turn this into a real-world predictive tool, the placeholder `y` variable would need to be replaced with a real historical incident dataset.
+=======
+# Weather_DNN
+A Deep Neural Network in Python to predict railway casualty risk from historical weather data. Features data cleaning, a Keras/TensorFlow model, and model persistence for efficient prediction.
+>>>>>>> 8f53d58d25f60a537c1d75b057da9d0bf1d025c0
